@@ -1,0 +1,21 @@
+
+
+body{
+     text-align:center;
+    background-color:azure;
+
+}
+ul{
+    display: inline-block
+}
+li{
+    text-align: justify;
+}
+ol{
+    display: inline-block;
+}
+
+img{
+    height: auto;
+    width: 12%;
+}
